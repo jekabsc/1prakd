@@ -1,0 +1,14 @@
+EXPERIMENT SUMMARY (2026-03-26 22:44:36)
+========================================================================
+ALGORITHM: MINIMAX | games=10 | depth=6 | starter=human
+AI wins: 10 | Human wins: 0
+Generated vertices (TOTAL): 217
+Evaluated vertices (TOTAL): 69
+Avg AI move time (seconds, AVG per game): 0.000038
+------------------------------------------------------------------------
+ALGORITHM: ALPHABETA | games=10 | depth=6 | starter=human
+AI wins: 9 | Human wins: 1
+Generated vertices (TOTAL): 81
+Evaluated vertices (TOTAL): 30
+Avg AI move time (seconds, AVG per game): 0.000021
+------------------------------------------------------------------------

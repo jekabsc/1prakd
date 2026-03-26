@@ -1,0 +1,21 @@
+timestamp,algorithm,depth,starter,game_index,start_n,winner,winner_is_ai,generated_nodes_total,evaluated_nodes_total,ai_moves,avg_ai_move_time_s,run_ai_wins,run_human_wins,run_generated_nodes_total_all_games,run_evaluated_nodes_total_all_games,run_avg_ai_move_time_s_avg_per_game
+2026-03-26T22:44:36,minimax,6,human,1,45360,AI (2. spēlētājs),True,124,36,3,0.000163,10,0,217,69,0.000038
+2026-03-26T22:44:36,minimax,6,human,2,49380,AI (2. spēlētājs),True,5,2,1,0.000018,10,0,217,69,0.000038
+2026-03-26T22:44:36,minimax,6,human,3,43860,AI (2. spēlētājs),True,5,2,1,0.000017,10,0,217,69,0.000038
+2026-03-26T22:44:36,minimax,6,human,4,41760,AI (2. spēlētājs),True,22,7,2,0.000035,10,0,217,69,0.000038
+2026-03-26T22:44:36,minimax,6,human,5,46680,AI (2. spēlētājs),True,5,2,1,0.000017,10,0,217,69,0.000038
+2026-03-26T22:44:36,minimax,6,human,6,44580,AI (2. spēlētājs),True,5,2,1,0.000017,10,0,217,69,0.000038
+2026-03-26T22:44:36,minimax,6,human,7,46140,AI (2. spēlētājs),True,5,2,1,0.000017,10,0,217,69,0.000038
+2026-03-26T22:44:36,minimax,6,human,8,47040,AI (2. spēlētājs),True,17,5,2,0.000027,10,0,217,69,0.000038
+2026-03-26T22:44:36,minimax,6,human,9,41700,AI (2. spēlētājs),True,11,4,2,0.000019,10,0,217,69,0.000038
+2026-03-26T22:44:36,minimax,6,human,10,46200,AI (2. spēlētājs),True,18,7,2,0.000048,10,0,217,69,0.000038
+2026-03-26T22:44:36,alphabeta,6,human,1,46320,AI (2. spēlētājs),True,11,4,2,0.000024,9,1,81,30,0.000021
+2026-03-26T22:44:36,alphabeta,6,human,2,43260,AI (2. spēlētājs),True,5,2,1,0.000019,9,1,81,30,0.000021
+2026-03-26T22:44:36,alphabeta,6,human,3,45420,AI (2. spēlētājs),True,5,2,1,0.000018,9,1,81,30,0.000021
+2026-03-26T22:44:36,alphabeta,6,human,4,42840,AI (2. spēlētājs),True,18,7,2,0.000040,9,1,81,30,0.000021
+2026-03-26T22:44:36,alphabeta,6,human,5,47460,AI (2. spēlētājs),True,5,2,1,0.000019,9,1,81,30,0.000021
+2026-03-26T22:44:36,alphabeta,6,human,6,46020,AI (2. spēlētājs),True,5,2,1,0.000018,9,1,81,30,0.000021
+2026-03-26T22:44:36,alphabeta,6,human,7,40560,Cilvēks (1. spēlētājs),False,11,3,2,0.000018,9,1,81,30,0.000021
+2026-03-26T22:44:36,alphabeta,6,human,8,40380,AI (2. spēlētājs),True,5,2,1,0.000018,9,1,81,30,0.000021
+2026-03-26T22:44:36,alphabeta,6,human,9,40440,AI (2. spēlētājs),True,5,2,1,0.000018,9,1,81,30,0.000021
+2026-03-26T22:44:36,alphabeta,6,human,10,46260,AI (2. spēlētājs),True,11,4,2,0.000019,9,1,81,30,0.000021
